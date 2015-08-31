@@ -50,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Employment
 
-**Makers Academy, London** (Aug 2015 to Present)
+**Makers Academy, London**
 *Alumni Helper*
 
 - Technical support for students who are currently enrolled on the course at Makers Academy.
