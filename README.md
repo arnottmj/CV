@@ -26,8 +26,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (June 2015 - September 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
@@ -51,6 +49,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **(seven A*s, one A and two B's)**
 
 ## Employment
+
+**Makers Academy, London** (August 2015 - Present)
+*Alumni Helper*
+
+- Technical support for students who are currently enrolled on the course at Makers Academy.
+- Code reviews and encouraging best practices.
 
 **Travelling** (January 2014 to May 2015)
 
