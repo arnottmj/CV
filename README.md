@@ -53,7 +53,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy, London** (August 2015 - Present)
 *Alumni Helper*
 
-- test line
 - Technical support for students who are currently enrolled on the course at Makers Academy.
 - Code reviews and encouraging best practices.
 
