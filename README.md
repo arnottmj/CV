@@ -44,11 +44,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Awarded the University of York prize for the joint best performance at Foundation Year.
 
-#### (2003-2007)
-**Extenuating circumstances (more details on request)**
+#### Extenuating circumstances (2003-2007)
+**(more details on request)**
 
 #### Bedford School (1998-2003)
-**seven A*s, one A and two B's**
+**(seven A*s, one A and two B's)**
 
 ## Employment
 
