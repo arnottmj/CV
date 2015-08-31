@@ -53,13 +53,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy, London** (August 2015 - Present)
 *Alumni Helper*
 
+- test line
 - Technical support for students who are currently enrolled on the course at Makers Academy.
 - Code reviews and encouraging best practices.
 
 **Travelling** (January 2014 to May 2015)
 
 **Autonomy HP, London** (March 2012 to Aug 2013)    
-*Analyst* 
+*Analyst*
 
 Part of a division which carries out website optimization.
 
