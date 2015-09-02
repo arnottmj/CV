@@ -1,26 +1,23 @@
 ## Michael Arnott
 
-A problem solver by nature, with a highly quantitative background, and a creative streak that has blossomed since learning to code at Makers Academy. Previously worked within a small ecommerce team at Hewlett-Packard performing website optimisation; with complete exposure to the running of a managed service including working alongside developers. Now looking to grow as a full stack junior developer by joining an outgoing team that is focused on agile and test driven development.
+A problem solver by nature, with a highly quantitative background, and a creative streak that has blossomed since learning to code at Makers Academy. Previously worked within a small ecommerce team at Hewlett-Packard performing website optimisation; with complete exposure to the running of a managed service, including working alongside developers. Now looking to grow as a full stack junior developer by joining an outgoing team that is focused on agile and test driven development.
 
 
 ## Skills
 
+#### Ruby on Rails
+
+Ruby is what really drove me towards becoming a developer. I'd done a couple of short C++ courses at university but the simplicity of Ruby is what finally allowed me to start building 'real' things. I love logic and puzzles; ruby suddenly allowed me to begin using that part of my brain to be creative in a very natural way - something i'd never experienced before.
+
+My final project at Makers was [Selecta](https://github.com/arnottmj/selecta-official). The app aims to provide simply music discovery. It uses a rails framework with angular front end, offering continuous music playback across the whole site. I wrote the music suggestion alogithm in ruby.
+
+Im also proud of a re-code of the [inject method](https://github.com/arnottmj/inject-challenge) that I wrote; offering full functionality with appropriate guard controls.
+
 #### Analytics
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Two years of working full time as an analyst across the ecommerce and oil/gas sectors means that I have experience working with large datasets. At Hewlett Packard, I mainly performed multivariate website testing, having focused on statistics whilst studying for my BSc in Mathematics. Two of the accounts I worked on were Office Depot and Debenhams; both of whom renewed $200,000 contracts.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+####
 
 ## Education
 
