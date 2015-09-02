@@ -1,6 +1,6 @@
 ## Michael Arnott
 
-A problem solver by nature, with a highly quantitative background, and a creative streak that has blossomed since learning to code at Makers Academy. Previously worked within a small ecommerce team at Hewlett-Packard performing website optimisation; with complete exposure to the running of a managed service including working alongside developers. Looking to join an outgoing team that is focused on agile and test driven development; where I can cement best practices learned at Makers and continue to grow.
+A problem solver by nature, with a highly quantitative background, and a creative streak that has blossomed since learning to code at Makers Academy. Previously worked within a small ecommerce team at Hewlett-Packard performing website optimisation; with complete exposure to the running of a managed service including working alongside developers. Now looking to grow as a full stack junior developer by joining an outgoing team that is focused on agile and test driven development.
 
 
 ## Skills
@@ -26,8 +26,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (June 2015 - September 2015)
 
+- intensive 16 week course that brings students up to junior develoepr standard
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
@@ -52,8 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Makers Academy, London** (August 2015 to Present)
 
-- Working as an Alumni helper, providing technical support for students who are currently enrolled.
-- Code reviews and encouraging best practices.
+- Alumni helper position which involves giving code reviews and encouraging best practices.
 
 **Travelling** (January 2014 to May 2015)
 
