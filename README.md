@@ -46,9 +46,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *(more details on request)*
 
 #### Bedford School (1998-2003)
-*A\* (Maths, Physics, Chemistry, Biology, Geography, French, RE)*
-*A (History)*
-*B (English, English Literature)*
+*A: (Maths, Physics, Chemistry, Biology, Geography, French, RE)*
+*A: (History)*
+*B: (English, English Literature)*
 
 ## Employment
 
