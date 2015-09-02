@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *(more details on request)*
 
 #### Bedford School (1998-2003)
-*seven starred A's; one A; two B's*
+*Seven starred A's; one A; two B's*
 
 ## Employment
 
