@@ -7,15 +7,15 @@ A problem solver by nature, with a highly quantitative background, and a creativ
 
 #### Ruby on Rails
 
-Ruby is what really drove me towards becoming a developer. I'd done a couple of short C++ courses at university but the simplicity of Ruby is what finally allowed me to start building 'real' things. I love logic and puzzles; ruby suddenly allowed me to begin using that part of my brain to be creative in a very natural way - something i'd never experienced before.
+Ruby is what really drove me towards becoming a developer. I undertook several short C++ courses at university but the simplicity of Ruby is what finally allowed me to start building 'real' things. I love logic and puzzles; ruby suddenly allowed me to begin using that part of my brain to be creative in a very natural way - something i'd never experienced before.
 
-My final project at Makers was [Selecta](https://github.com/arnottmj/selecta-official). The app aims to provide simply music discovery. It uses a rails framework with angular front end, offering continuous music playback across the whole site. I wrote the music suggestion alogithm in ruby.
+My final project at Makers was [Selecta](https://github.com/arnottmj/selecta-official). The app aims to provide simple music discovery. It uses a rails framework with angular front end, offering continuous music playback across the whole site. I wrote the music suggestion alogithm in ruby.
 
 Im also proud of a re-code of the [inject method](https://github.com/arnottmj/inject-challenge) that I wrote; offering full functionality with appropriate guard controls.
 
 #### Analytics
 
-Two years of working full time as an analyst across the ecommerce and oil/gas sectors means that I have experience working with large datasets. At Hewlett Packard, I mainly performed multivariate website testing, having focused on statistics whilst studying for my BSc in Mathematics. Two of the accounts I worked on were Office Depot and Debenhams; both of whom renewed $200,000 contracts.
+Two years of working full time as an analyst across the ecommerce and oil/gas sectors means that I have experience working with large datasets. At Hewlett Packard, I mainly performed multivariate website testing, having specialised in statistics whilst studying for my BSc in Mathematics. Two of the accounts I worked on were Office Depot and Debenhams; both of whom renewed $200,000 contracts.
 
 ####
 
