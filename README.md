@@ -9,9 +9,9 @@ A problem solver by nature, with a highly quantitative background, and a creativ
 
 Ruby is what inspired me to become a developer. I undertook several short C++ courses at university but the simplicity of Ruby is what finally allowed me to start building 'real' things. I love logic and puzzles; ruby suddenly allowed me to begin using that part of my brain to be creative in a very natural way - something i'd never experienced before.
 
-My final project at Makers was <a href="https://github.com/arnottmj/selecta-official" target="_blank">selecta</a>. The app aims to provide simple music discovery. It uses a rails framework with angular front end, offering continuous music playback across the whole site. I wrote the music suggestion alogithm in ruby.
+My final project at Makers was <a href="https://github.com/arnottmj/selecta-official" target="_blank">Selecta</a>. The app aims to provide simple music discovery. It uses a rails framework with angular front end, offering continuous music playback across the whole site. I wrote the music suggestion alogithm in ruby.
 
-Im also proud of a re-code of the [inject method](https://github.com/arnottmj/inject-challenge) that I wrote; offering full functionality with appropriate guard controls.
+Im also proud of a re-code of the <a href="https://github.com/arnottmj/inject-challenge" target="_blank">inject challenge</a> that I wrote; offering full functionality with appropriate guard controls.
 
 #### Analytics
 
