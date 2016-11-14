@@ -47,11 +47,14 @@ Two years of working full time as an analyst across the ecommerce and oil/gas se
 
 ## Employment
 
-**Makers Academy, London** (August 2015 to Present)
+**Brimham resources, Ampthill** (January 2014 to Present)
+
+- System maintenance for a small private company offering oil & gas consultancy services.
+- Low key role held whilst travelling extensively: including walking the Continental Divide Trail (a 2800 mile walk from Mexico to Canada)
+
+**Makers Academy, London** (August 2015 to October 2015)
 
 - Alumni helper position which involves giving code reviews and encouraging best practices.
-
-**Travelling** (January 2014 to May 2015)
 
 **Autonomy HP, London** (March 2012 to Aug 2013)    
 *Analyst*
