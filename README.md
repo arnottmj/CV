@@ -61,6 +61,7 @@ Two years of working full time as an analyst across the ecommerce and oil/gas se
 - Supporting current students on the course: giving code reviews and encouraging best practices.
 
 **Autonomy HP, London** (March 2012 to Aug 2013)    
+
 *Analyst*
 
 Part of a division which carries out website optimization.
@@ -70,6 +71,7 @@ Part of a division which carries out website optimization.
 - Constant collaboration with account managers and developers, with complete exposure to the running of a managed service.
 
 **Energy Intelligence, London** (Aug 2011 to Dec 2011)   
+
 *Consultant*  
                                                                      
 Worked within a small multinational team that carried out the second round of the Joint Organisations Data Initiative (JODI) oil data assessment. The project aimed to increase the transparency of oil market data among 90 countries within 6 organisations including the International Energy Agency (IEA).
