@@ -48,13 +48,15 @@ Two years of working full time as an analyst across the ecommerce and oil/gas se
 ## Employment
 
 **Brimham resources, Ampthill** (January 2014 to Present)
-*Technical\ Specialist*
+
+*Technical Specialist*
 
 - System maintenance for a small private company offering oil & gas consultancy services.
 - Low key role held whilst learning to code at Makers Academy and travelling extensively: including joining my partner to hike the Continental Divide Trail (a 2800 mile walk from Mexico to Canada)
 
 **Makers Academy, London** (August 2015 to October 2015)
-*Alumni\ Helper*
+
+*Alumni Helper*
 
 - Supporting current students on the course: giving code reviews and encouraging best practices.
 
