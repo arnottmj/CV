@@ -55,7 +55,6 @@ Two years of working full time as an analyst across the ecommerce and oil/gas se
 - Low key role held whilst learning to code at Makers Academy and travelling extensively: including joining my partner to hike the Continental Divide Trail (a 2800 mile walk from Mexico to Canada)
 
 **Makers Academy, London** (August 2015 to October 2015)
-
 *Alumni Helper*
 
 - Supporting current students on the course: giving code reviews and encouraging best practices.
